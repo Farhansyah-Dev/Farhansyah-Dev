@@ -1,4 +1,5 @@
 ## Hello World ✨✨ 
+![Farhansyah](img/github-header.png)
 
 <!--
 **Farhansyah-Dev/Farhansyah-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Farhansyah](img/header-github1.png)
+
