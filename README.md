@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [**Kotlin**](https://kotlinlang.org)
 
 #### Skill
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php&perline=3)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php&perline=3)
 
 #### Tools
-[![My Tools](https://skillicons.dev/icons?i=git,github,laravel,react&perline=3)](https://skillicons.dev)
+![My Tools](https://skillicons.dev/icons?i=git,github,laravel,react&perline=3)
 
 
 #### Connect To Me
