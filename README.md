@@ -27,13 +27,6 @@ Here are some ideas to get you started:
 [![My sosial media](https://skillicons.dev/icons?i=instagram)](https://instagram.com/farhan.wrdsyh)
 
 ##### Play Game With Me
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farhansyah-Dev/Farhansyah-Dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farhansyah-Dev/Farhansyah-Dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Farhansyah-Dev/Farhansyah-Dev/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <img src="https://raw.githubusercontent.com/Farhansyah-Dev/Farhansyah-Dev/output/snake.svg" alt="Snake animation" />
 
