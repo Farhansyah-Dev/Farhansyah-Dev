@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [PT Toyota Motor Manufakturing Indonesia](https://www.toyota.co.id/)
-<br>  
+  
 - 🌱 I’m currently Studying at  [Universitas Pelita Bangsa](https://ecampus.pelitabangsa.ac.id/pb/)
-<br>
-- 📫 How to reach me: wirdiansyahfarhan@gmail.com
-<br>
+
+- 📫 How to reach me: ![wirdiansyahfarhan@gmail.com]
 
 #### Skill
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php&perline=3)
