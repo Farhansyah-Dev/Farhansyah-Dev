@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love playing video games and watching film in Netflix.
 
 ### Skill & Tools
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,c++,php,git,github&perline=50)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,C++,php,git,github&perline=50)
 
 
 #### Connect To Me
