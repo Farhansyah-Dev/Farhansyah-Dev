@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [PT Toyota Motor Manufakturing Indonesia] (https://www.toyota.co.id/)
+- 🔭 I’m currently working on [PT Toyota Motor Manufakturing Indonesia](https://www.toyota.co.id/)
 - 🌱 I’m currently Studying at  [Universitas Pelita Bangsa](https://ecampus.pelitabangsa.ac.id/pb/)
 - 📫 How to reach me: [wirdiansyahfarhan@gmail.com]
 
