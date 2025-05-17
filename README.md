@@ -1,5 +1,5 @@
-## Hey There!👋, I'm Muhammad Farhan Wirdiansyah
-### I am interested in working in the frontend and data analysis field
+##                                   Hey There!👋, I'm Muhammad Farhan Wirdiansyah
+###                          I am interested in working in the frontend and data analysis field
 <!--
 **Farhansyah-Dev/Farhansyah-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [PT Toyota Motor Manufakturing Indonesia](https://www.toyota.co.id/)
 - 🌱 I’m currently Studying at  [Universitas Pelita Bangsa](https://ecampus.pelitabangsa.ac.id/pb/)
-- 📫 How to reach me: [wirdiansyahfarhan@gmail.com]
+- 📫 How to reach me: [wirdiansyahfarhan@gmail.com](https://mail.google.com/)
 
 #### Skill
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php&perline=3)
