@@ -1,7 +1,6 @@
-### <div align="center>
-#    <h1>Hey There!👋, I'm Muhammad Farhan Wirdiansyah</h1>
-#    <h2>I am interested in working in the frontend and data analysis field</h2>
-## </div>                              
+
+#                  Hey There!👋, I'm Muhammad Farhan Wirdiansyah
+##             am interested in working in the frontend and data analysis field                            
 
 ###                        
 <!--
