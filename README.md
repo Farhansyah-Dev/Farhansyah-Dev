@@ -1,8 +1,7 @@
-    <center>
+
 # Hey There!👋, I'm Muhammad Farhan Wirdiansyah
 ##             am interested in working in the frontend and data analysis field                            
-    </center>
-###                        
+      
 <!--
 **Farhansyah-Dev/Farhansyah-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
