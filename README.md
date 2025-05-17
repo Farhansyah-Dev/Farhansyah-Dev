@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: wirdiansyahfarhan@gmail.com
 
-#### Skill
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php&perline=3)
+- ⚡ Fun fact: I love playing video games and watching film in Netflix.
 
-#### Tools
-![My Tools](https://skillicons.dev/icons?i=git,github,laravel,react&perline=3)
+### Skill & Tools
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,c++,php,git,github&perline=50)
 
 
 #### Connect To Me
