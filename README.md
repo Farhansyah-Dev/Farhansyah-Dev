@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I love playing video games and watching film in Netflix.
 
-### Skill & Tools
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,C++,php,git,github&perline=50)
+### Tech & Tools
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,cpp,php,git,github&perline=50)
 
 
 #### Connect To Me
 [![My sosial media](https://skillicons.dev/icons?i=instagram)](https://instagram.com/farhan.wrdsyh)
+[![my email](https://skillicons.dev/icons?i=gmail)](wirdiansyahfarhan@gmail.com)
 
 ##### Play Game With Me
 
