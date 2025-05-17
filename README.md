@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 - 🌱 I’m currently Studying at  [Universitas Pelita Bangsa](https://ecampus.pelitabangsa.ac.id/pb/)
 
-- 📫 How to reach me: ![wirdiansyahfarhan@gmail.com]
+- 📫 How to reach me: [wirdiansyahfarhan@gmail.com]
 
 #### Skill
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php&perline=3)
