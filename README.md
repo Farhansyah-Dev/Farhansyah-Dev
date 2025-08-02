@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <h3 align="left"> Connect to me </h3>
 <p align="left">
 <!-- Instagram --><a href="https://www.instagram.com/farhan.wrdsyh/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="35"/> </a>
-<!-- Gmail --><a href="https://www.instagram.com/farhan.wrdsyh/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gmail" alt="email" width="35"/> </a>
+<!-- Gmail --><a href="https://www.mail.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gmail" alt="email" width="35"/> </a>
 <!-- Github --><a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="email" width="35"/> </a>
 
 <h4 align="left"> Play Snake With Me </h4>
