@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <!-- c++ -->
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="35" height="35"/> </a>
-<!-- Python --> <a href="https://www.w3school.com/python/>" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="pthon" width="35" height="35"/> </a> 
-<!-- PHP --><a href="https://www.w3school.com/php/>" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="35" height="35"/> </a>
+<!-- Python --> <a href="https://www.w3schools.com/python/>" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="pthon" width="35" height="35"/> </a> 
+<!-- PHP --><a href="https://www.w3schools.com/php/>" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="35" height="35"/> </a>
 <!-- CSS --><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="35" height="35"/> </a>
-<!-- HTML --><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="35" height="35"/> </a>
+<!-- HTML --><a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="35" height="35"/> </a>
 <!-- Git --><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="35" height="35"/> </a> 
 <!-- Github --><a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt ="github" width="35" height="35"/> </a> </p>
 
